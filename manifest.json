@@ -1,0 +1,10 @@
+{
+  "name": "জনকল্যাণে নবজাগরণ",
+  "short_name": "নবজাগরণ",
+  "description": "যুব উন্নয়ন ও নিঃস্বার্থ সমাজসেবা",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8f6",
+  "theme_color": "#176b4b",
+  "lang": "bn"
+}
